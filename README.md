@@ -1,5 +1,5 @@
 # welcome-demo [![Build Status](https://travis-ci.org/infolab-csail/welcome-demo.svg)](https://travis-ci.org/infolab-csail/welcome-demo)
-Welcome to the InfoLab! Please follow these instructions to get familiar with the our lab's Github workflow.
+Welcome to the InfoLab! Please follow these instructions to get familiar with our lab's Github workflow.
 
 ## Steps
 
@@ -15,6 +15,7 @@ Welcome to the InfoLab! Please follow these instructions to get familiar with th
    git commit -m "Add <your name>'s favorite number"
    git push origin <yourname>
    ```
+
 1. Create a [pull request](https://help.github.com/articles/using-pull-requests/) (PR) with your changes.
-1. Wait for [Travis](https://travis-ci.org/infolab-csail/welcome-demo) checks to pass. If the checks fail, your change probably broke the format of the `numbers.csv` file. Make modifications by pushing more changes to the `<yourname>` branch.
-1. Assign the PR to Sue. Sue will merge your PR if all checks pass.
+1. Wait for [Travis](https://travis-ci.org/infolab-csail/welcome-demo) checks to pass. If checks fail, your change probably broke the format of the `numbers.csv` file. Make modifications by pushing more changes to the `<yourname>` branch.
+1. Assign the PR to Sue for review. If you followed these steps correctly, Sue will say your PR looks good and will assign it back to you. [Merge it](https://help.github.com/articles/merging-a-pull-request/) by clicking "Merge pull request".
