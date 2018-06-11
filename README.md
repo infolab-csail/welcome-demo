@@ -18,4 +18,4 @@ Welcome to the InfoLab! Please follow these instructions to get familiar with ou
 
 1. Create a [pull request](https://help.github.com/articles/using-pull-requests/) (PR) with your changes.
 1. Wait for [Travis](https://travis-ci.org/infolab-csail/welcome-demo) checks to pass. If checks fail, your change probably broke the format of the `numbers.csv` file. Make modifications by pushing more changes to the `<yourname>` branch.
-1. Assign the PR to Sue for review. If you followed these steps correctly, Sue will say your PR looks good and will assign it back to you. [Merge it](https://help.github.com/articles/merging-a-pull-request/) by clicking "Merge pull request".
+1. Request a review from Sue by adding her as a reviewer and assigning the PR to Sue for review. If you followed these steps correctly, Sue will say your PR looks good and will assign it back to you. Then, [merge it](https://help.github.com/articles/merging-a-pull-request/) by clicking "Merge pull request".  Since you will not be using this branch for any future commits, delete it by clicking "Delete branch" in the closed PR.
