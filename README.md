@@ -4,7 +4,7 @@ Welcome to the InfoLab! Please follow these instructions to get familiar with ou
 ## Steps
 
 1. Clone this repository, `git clone git@github.com:infolab-csail/welcome-demo.git`.
-1. Create a branch named after yourself, `git checkout -b <yourname>`.
+1. Create a branch named after yourself, `git checkout -b add-<yourname>-fav-num`.
 1. Add your name and favorite number to `numbers.csv`.
   * Your name must start with a capital letter
   * Your favorite number must be a valid int
@@ -13,11 +13,14 @@ Welcome to the InfoLab! Please follow these instructions to get familiar with ou
    ```
    git add numbers.csv
    git commit -m "Add <your name>'s favorite number"
-   git push origin <yourname>
+   git push origin add-<yourname>-fav-num
    ```
 
 1. Create a [pull request](https://help.github.com/articles/using-pull-requests/) (PR) with your changes.
-1. Wait for [Travis](https://travis-ci.org/infolab-csail/welcome-demo) checks to pass. If checks fail, your change probably broke the format of the `numbers.csv` file. Make modifications by pushing more changes to the `<yourname>` branch.
+1. Wait for [Travis](https://travis-ci.org/infolab-csail/welcome-demo)
+checks to pass. If checks fail, your change probably broke the format
+of the `numbers.csv` file. Make modifications by pushing more changes
+to the `add-<yourname>-fav-num` branch.
 1. Request a review from Sue by adding her as a reviewer and assigning the PR to Sue for review. If you followed these steps correctly, Sue will say your PR looks good and will assign it back to you. Then, [merge it](https://help.github.com/articles/merging-a-pull-request/) by clicking "Merge pull request".  Since you will not be using this branch for any future commits, delete it by clicking "Delete branch" in the closed PR.
 
 Now that you are familiar with the basics, see [Infolab Github Workflow](https://projects.csail.mit.edu/cgi-bin/wiki/view/Infolab/GithubWorkflow) for some more details about using Git and GitHub well.
