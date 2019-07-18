@@ -1,7 +1,7 @@
 import sys
 import csv
 
-with open('numbers.csv', 'rb') as csvfile:
+with open('numbers.csv', 'r') as csvfile:
     reader = csv.DictReader(csvfile, delimiter=',')
     for row in reader:
         # check that names are capitalized
