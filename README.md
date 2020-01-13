@@ -4,6 +4,8 @@ Welcome to the InfoLab! Please follow these instructions to get familiar with ou
 ## Steps
 
 1. Clone this repository, `git clone git@github.com:infolab-csail/welcome-demo.git`.
+1. The previous step will have cloned the repo into a new subdirectory
+named `welcome-demo`. `cd` to it.
 1. Create a branch named after yourself, `git checkout -b add-<yourname>-fav-num`.
 1. Add your name and favorite number to `numbers.csv`.
   * Your name must start with a capital letter
