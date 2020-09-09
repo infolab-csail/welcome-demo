@@ -18,6 +18,17 @@ named `welcome-demo`. `cd` to it.
    git push origin add-<yourname>-fav-num
    ```
 
+   (Hint: For a one-line log message like in this Welcome Demo, `git
+   commit -m` is convenient.  However, you should often write longer
+   log messages, with an initial subject line and a descriptive body.
+   In that case, omit the `-m` option.  Git will open up a text editor
+   for you to enter your log message, so that you can edit multi-line
+   messages with access to convenient editing commands like filling
+   paragraphs.  (You can configure your account to use a different
+   editor if you don't like the default editor.  To submit the log
+   message, save the editor buffer and exit in the standard way for
+   that editor.)
+
 1. Create a [pull request](https://help.github.com/articles/using-pull-requests/) (PR) with your changes.
 1. Wait for [Travis](https://travis-ci.org/infolab-csail/welcome-demo)
 checks to pass. If checks fail, your change probably broke the format
