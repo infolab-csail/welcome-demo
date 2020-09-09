@@ -25,7 +25,7 @@ named `welcome-demo`. `cd` to it.
    for you to enter your log message, so that you can edit multi-line
    messages with access to convenient editing commands like filling
    paragraphs.  (You can configure your account to use a different
-   editor if you don't like the default editor.  To submit the log
+   editor if you don't like the default editor.)  To submit the log
    message, save the editor buffer and exit in the standard way for
    that editor.)
 
