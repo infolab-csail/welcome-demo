@@ -1,4 +1,6 @@
-# welcome-demo [![Build Status](https://travis-ci.org/infolab-csail/welcome-demo.svg)](https://travis-ci.org/infolab-csail/welcome-demo)
+# welcome-demo 
+[![Build Status](https://github.com/infolab-csail/welcome-demo/actions/workflows/python-package.yml/badge.svg?branch=master)](https://github.com/infolab-csail/welcome-demo/actions/workflows/python-package.yml)
+
 Welcome to the InfoLab! Please follow these instructions to get familiar with our lab's Github workflow.
 
 ## Steps
@@ -30,7 +32,7 @@ named `welcome-demo`. `cd` to it.
    that editor.)
 
 1. Create a [pull request](https://help.github.com/articles/using-pull-requests/) (PR) with your changes.
-1. Wait for [Travis](https://travis-ci.org/infolab-csail/welcome-demo)
+1. Wait for [Github Actions](https://github.com/infolab-csail/welcome-demo/actions/workflows/python-package.yml)
 checks to pass. If checks fail, your change probably broke the format
 of the `numbers.csv` file. Make modifications by pushing more changes
 to the `add-<yourname>-fav-num` branch.
