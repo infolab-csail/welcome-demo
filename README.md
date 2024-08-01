@@ -1,5 +1,5 @@
 # welcome-demo [![Build Status](https://travis-ci.org/infolab-csail/welcome-demo.svg)](https://travis-ci.org/infolab-csail/welcome-demo)
-Welcome to the InfoLab! Please follow these instructions to get familiar with our lab's Github workflow.
+Welcome to the InfoLab! Please follow these instructions to get familiar with our lab's GitHub workflow.
 
 ## Steps
 
@@ -36,6 +36,6 @@ of the `numbers.csv` file. Make modifications by pushing more changes
 to the `add-<yourname>-fav-num` branch.
 1. Request a review from Sue by adding her as a reviewer and an assignee for the PR. If you followed these steps correctly, Sue will say your PR looks good and will assign it back to you. Then, [merge it](https://help.github.com/articles/merging-a-pull-request/) by clicking "Merge pull request".  Since you will not be using this branch for any future commits, delete it by clicking "Delete branch" in the closed PR.
 
-Now that you are familiar with the basics, see [Infolab Github
+Now that you are familiar with the basics, see [Infolab GitHub
 Workflow](https://github.com/infolab-csail/infolab-core/blob/master/doc/github-workflow.md)
 for some more details about using Git and GitHub well.
